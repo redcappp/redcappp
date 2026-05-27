@@ -57,7 +57,7 @@ def atcoder():
 
 
 def repository_totals():
-    return {"published": 26, "featured": 8}
+    return {"published": 27, "featured": 8}
 
 
 def profile_header_svg():

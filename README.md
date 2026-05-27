@@ -91,6 +91,7 @@ Currently: Samsung PRISM R&D Intern
 - [CogniGen Frontend](https://github.com/redcappp/cognigen-frontend)
 - [CogniGen Backend](https://github.com/redcappp/cognigen-backend)
 - [OffChat Mesh Simulator](https://github.com/redcappp/offchat-mesh-simulator)
+- [OffChat Android](https://github.com/redcappp/offchat-android)
 - [Vehicle QR Code Generator](https://github.com/redcappp/vehicle-qr-code-generator)
 - [Adaptive CNN Malware Guard](https://github.com/redcappp/Adaptive-CNN-Malware-Guard)
 - [AI Vulnerability Scanner Agent](https://github.com/redcappp/ai-vuln-scanner-agent)
