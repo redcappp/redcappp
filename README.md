@@ -37,6 +37,8 @@ Currently: Samsung PRISM R&D Intern
 
 <div align="center">
 
+![Live Stats](assets/live-stats.svg)
+
 ![Codeforces Current](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Current&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dredcapp&color=2563EB)
 ![Codeforces Max](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Max&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dredcapp&color=16A34A)
 ![CodeChef](https://img.shields.io/badge/CodeChef-1824%20%7C%20max%201852-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
@@ -70,6 +72,18 @@ Currently: Samsung PRISM R&D Intern
       <h3>YouTube CP Learning Hub</h3>
       <p>Redcapp channel for Codeforces, CodeChef, AtCoder problem breakdowns and strategy-led competitive programming learning.</p>
       <p><a href="https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA">Watch Redcapp on YouTube</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Vehicle QR Code Generator</h3>
+      <p>Browser app for encoding vehicle details into a downloadable QR code with a polished public README and screenshot.</p>
+      <p><a href="https://github.com/redcappp/vehicle-qr-code-generator">View repository</a></p>
+    </td>
+    <td width="50%">
+      <h3>Live Stats Automation</h3>
+      <p>GitHub Actions workflow refreshes CP and YouTube statistics into a generated SVG for this profile README.</p>
+      <p><a href="stats/competitive.json">View generated stats JSON</a></p>
     </td>
   </tr>
 </table>

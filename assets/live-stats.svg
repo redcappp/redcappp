@@ -1,0 +1,9 @@
+<svg width="720" height="260" viewBox="0 0 720 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+.bg{fill:#0f172a}.title{font:700 22px Arial;fill:#fff}.name{font:700 16px Arial;fill:#93c5fd}.value{font:600 16px Arial;fill:#dcfce7}.muted{font:12px Arial;fill:#94a3b8}
+</style>
+<rect class="bg" width="720" height="260" rx="14"/>
+<text x="28" y="28" class="title">Live Competitive Programming + Creator Stats</text>
+<text x="28" y="46" class="name">Codeforces</text><text x="220" y="46" class="value">1624 / max 1673</text><text x="28" y="86" class="name">CodeChef</text><text x="220" y="86" class="value">1824 / max 1852</text><text x="28" y="126" class="name">AtCoder</text><text x="220" y="126" class="value">3 / max 3</text><text x="28" y="166" class="name">LeetCode</text><text x="220" y="166" class="value">373 solved, 1925.21 rating</text><text x="28" y="206" class="name">YouTube</text><text x="220" y="206" class="value">30 subscribers, 2,209 views</text>
+<text x="28" y="240" class="muted">Auto-updated by GitHub Actions</text>
+</svg>

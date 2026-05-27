@@ -1,0 +1,29 @@
+{
+  "codeforces": {
+    "current": 1624,
+    "max": 1673,
+    "rank": "expert",
+    "max_rank": "expert"
+  },
+  "codechef": {
+    "current": 1824,
+    "max": 1852,
+    "solved": 832
+  },
+  "atcoder": {
+    "current": 3,
+    "max": 3,
+    "matches": 64
+  },
+  "leetcode": {
+    "solved": 373,
+    "rating": 1925.21,
+    "top_percentage": 3.82,
+    "contests": 28
+  },
+  "youtube": {
+    "channel": "Redcapp",
+    "subscribers": "30 subscribers",
+    "views": "2,209 views"
+  }
+}
