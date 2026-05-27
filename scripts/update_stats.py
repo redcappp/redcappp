@@ -57,26 +57,50 @@ def atcoder():
 
 
 def repository_totals():
-    return {"published": 27, "featured": 8}
+    return {"published": 29, "featured": 10}
 
 
 def profile_header_svg():
-    return """<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+    return """<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
     <stop offset="0%" stop-color="#0ea5e9"/>
     <stop offset="52%" stop-color="#22c55e"/>
     <stop offset="100%" stop-color="#f97316"/>
   </linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#1e293b" stroke-width="1"/>
+  </pattern>
+  <style>
+    @keyframes drift { from { transform: translateX(-80px); } to { transform: translateX(80px); } }
+    @keyframes pulse { 0%,100% { opacity:.18 } 50% { opacity:.34 } }
+    @keyframes type1 { 0%,22%{opacity:1} 24%,100%{opacity:0} }
+    @keyframes type2 { 0%,24%{opacity:0} 26%,48%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes type3 { 0%,50%{opacity:0} 52%,74%{opacity:1} 76%,100%{opacity:0} }
+    @keyframes type4 { 0%,76%{opacity:0} 78%,100%{opacity:1} }
+    .wave { animation: drift 8s ease-in-out infinite alternate; transform-origin:center; }
+    .orb { animation: pulse 3.8s ease-in-out infinite; }
+    .line1 { animation: type1 9s infinite; }
+    .line2 { animation: type2 9s infinite; }
+    .line3 { animation: type3 9s infinite; }
+    .line4 { animation: type4 9s infinite; }
+  </style>
 </defs>
-<rect width="1000" height="260" rx="24" fill="#0f172a"/>
-<path d="M0 190 C170 120 280 240 430 170 C600 90 710 210 1000 120 V260 H0 Z" fill="url(#g)" opacity="0.28"/>
-<circle cx="96" cy="78" r="42" fill="#22c55e" opacity="0.22"/>
-<circle cx="902" cy="72" r="58" fill="#0ea5e9" opacity="0.20"/>
+<rect width="1000" height="300" rx="24" fill="#0f172a"/>
+<rect width="1000" height="300" fill="url(#grid)" opacity=".55"/>
+<path class="wave" d="M-90 218 C110 118 260 256 430 184 C620 84 730 232 1090 126 V300 H-90 Z" fill="url(#g)" opacity="0.30"/>
+<path class="wave" d="M-90 248 C140 162 300 286 470 222 C650 152 780 260 1090 190 V300 H-90 Z" fill="#22c55e" opacity="0.13"/>
+<circle class="orb" cx="96" cy="78" r="42" fill="#22c55e" opacity="0.22"/>
+<circle class="orb" cx="902" cy="72" r="58" fill="#0ea5e9" opacity="0.20"/>
 <text x="500" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#ffffff">Divyansh Kumar Singh Chauhan</text>
 <text x="500" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="#dbeafe">Competitive Programmer | ML + Systems Builder | IIIT Naya Raipur</text>
-<text x="500" y="170" text-anchor="middle" font-family="Consolas, monospace" font-size="18" fill="#bbf7d0">ICPC Regionalist 2025 | Codeforces Expert | LeetCode Top 3.82%</text>
-<text x="500" y="208" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#fed7aa">RAG platforms, cybersecurity ML, offline networking, and AI tooling</text>
+<g font-family="Consolas, monospace" font-size="18" text-anchor="middle">
+  <text class="line1" x="500" y="178" fill="#bbf7d0">ICPC Regionalist 2025 | Codeforces Expert | LeetCode Top 3.82%</text>
+  <text class="line2" x="500" y="178" fill="#bbf7d0">Building RAG platforms, cybersecurity ML, and OS-level systems</text>
+  <text class="line3" x="500" y="178" fill="#bbf7d0">YT AI Agent | FileWorld | OffChat Suite | CogniGen</text>
+  <text class="line4" x="500" y="178" fill="#bbf7d0">Teaching competitive programming on YouTube: Redcapp</text>
+</g>
+<text x="500" y="222" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#fed7aa">Animated profile README powered by local SVG assets and GitHub Actions stats</text>
 </svg>"""
 
 
@@ -84,7 +108,9 @@ def project_glimpses_svg():
     projects = [
         ("CogniGen", "Adaptive RAG assessment platform", "FastAPI + React + PostgreSQL"),
         ("Adaptive CNN Malware Guard", "Binary-to-image malware classifier", "DenseNet121, 93.72% val acc"),
-        ("OffChat", "Offline mesh chat simulator", "TTL, ACKs, duplicate suppression"),
+        ("YT AI Agent", "Autonomous YouTube analytics + upload agent", "YouTube API, trend planning, video generation"),
+        ("FileWorld", "Android all-in-one file workspace", "Kotlin, local conversion, ZIP, sharing"),
+        ("OffChat Suite", "Simulator + compression + Android implementation", "Nearby Connections, TTL, ACKs, buffers"),
         ("AI Vulnerability Scanner", "Agentic security triage workflow", "Python + LLM orchestration"),
         ("Vehicle QR Generator", "Structured vehicle QR app", "HTML, CSS, JS"),
         ("Unity Microgames", "FPS + platformer game prototypes", "Unity Assets/Packages/Settings"),
@@ -100,11 +126,11 @@ def project_glimpses_svg():
 <text x="{x+20}" y="{y+30}" class="pname">{name}</text>
 <text x="{x+20}" y="{y+54}" class="pdesc">{desc}</text>
 <text x="{x+20}" y="{y+75}" class="pstack">{stack}</text>""")
-    return f"""<svg width="950" height="420" viewBox="0 0 950 420" xmlns="http://www.w3.org/2000/svg">
+    return f"""<svg width="950" height="530" viewBox="0 0 950 530" xmlns="http://www.w3.org/2000/svg">
 <style>
 .title{{font:800 26px Arial;fill:#fff}}.sub{{font:14px Arial;fill:#94a3b8}}.pname{{font:700 18px Arial;fill:#93c5fd}}.pdesc{{font:14px Arial;fill:#e5e7eb}}.pstack{{font:13px Consolas;fill:#bbf7d0}}
 </style>
-<rect width="950" height="420" rx="18" fill="#0b1120"/>
+<rect width="950" height="530" rx="18" fill="#0b1120"/>
 <text x="28" y="34" class="title">Project Glimpses</text>
 <text x="260" y="34" class="sub">real repositories and resume-grade work</text>
 {''.join(cards)}

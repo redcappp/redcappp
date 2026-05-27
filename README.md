@@ -56,8 +56,8 @@ Currently: Samsung PRISM R&D Intern
   </tr>
   <tr>
     <td width="50%">
-      <h3>OffChat Mesh Simulator</h3>
-      <p>Offline-first mesh chat simulator with node mobility, TTL-based message expiry, ACK propagation, duplicate suppression, and compression benchmarking.</p>
+      <h3>OffChat Suite</h3>
+      <p>Offline-first communication project with simulation, compression benchmarking, and real Android implementation using peer discovery and local persistence.</p>
       <p><a href="https://github.com/redcappp/offchat-mesh-simulator">View repository</a></p>
     </td>
     <td width="50%">
@@ -90,6 +90,8 @@ Currently: Samsung PRISM R&D Intern
 
 - [CogniGen Frontend](https://github.com/redcappp/cognigen-frontend)
 - [CogniGen Backend](https://github.com/redcappp/cognigen-backend)
+- [YT AI Agent](https://github.com/redcappp/yt-ai-agent)
+- [FileWorld](https://github.com/redcappp/fileworld)
 - [OffChat Mesh Simulator](https://github.com/redcappp/offchat-mesh-simulator)
 - [OffChat Android](https://github.com/redcappp/offchat-android)
 - [Vehicle QR Code Generator](https://github.com/redcappp/vehicle-qr-code-generator)

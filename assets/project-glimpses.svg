@@ -1,8 +1,8 @@
-<svg width="950" height="420" viewBox="0 0 950 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="950" height="530" viewBox="0 0 950 530" xmlns="http://www.w3.org/2000/svg">
 <style>
 .title{font:800 26px Arial;fill:#fff}.sub{font:14px Arial;fill:#94a3b8}.pname{font:700 18px Arial;fill:#93c5fd}.pdesc{font:14px Arial;fill:#e5e7eb}.pstack{font:13px Consolas;fill:#bbf7d0}
 </style>
-<rect width="950" height="420" rx="18" fill="#0b1120"/>
+<rect width="950" height="530" rx="18" fill="#0b1120"/>
 <text x="28" y="34" class="title">Project Glimpses</text>
 <text x="260" y="34" class="sub">real repositories and resume-grade work</text>
 
@@ -15,19 +15,27 @@
 <text x="510" y="112" class="pdesc">Binary-to-image malware classifier</text>
 <text x="510" y="133" class="pstack">DenseNet121, 93.72% val acc</text>
 <rect x="28" y="170" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
-<text x="48" y="200" class="pname">OffChat</text>
-<text x="48" y="224" class="pdesc">Offline mesh chat simulator</text>
-<text x="48" y="245" class="pstack">TTL, ACKs, duplicate suppression</text>
+<text x="48" y="200" class="pname">YT AI Agent</text>
+<text x="48" y="224" class="pdesc">Autonomous YouTube analytics + upload agent</text>
+<text x="48" y="245" class="pstack">YouTube API, trend planning, video generation</text>
 <rect x="490" y="170" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
-<text x="510" y="200" class="pname">AI Vulnerability Scanner</text>
-<text x="510" y="224" class="pdesc">Agentic security triage workflow</text>
-<text x="510" y="245" class="pstack">Python + LLM orchestration</text>
+<text x="510" y="200" class="pname">FileWorld</text>
+<text x="510" y="224" class="pdesc">Android all-in-one file workspace</text>
+<text x="510" y="245" class="pstack">Kotlin, local conversion, ZIP, sharing</text>
 <rect x="28" y="282" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
-<text x="48" y="312" class="pname">Vehicle QR Generator</text>
-<text x="48" y="336" class="pdesc">Structured vehicle QR app</text>
-<text x="48" y="357" class="pstack">HTML, CSS, JS</text>
+<text x="48" y="312" class="pname">OffChat Suite</text>
+<text x="48" y="336" class="pdesc">Simulator + compression + Android implementation</text>
+<text x="48" y="357" class="pstack">Nearby Connections, TTL, ACKs, buffers</text>
 <rect x="490" y="282" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
-<text x="510" y="312" class="pname">Unity Microgames</text>
-<text x="510" y="336" class="pdesc">FPS + platformer game prototypes</text>
-<text x="510" y="357" class="pstack">Unity Assets/Packages/Settings</text>
+<text x="510" y="312" class="pname">AI Vulnerability Scanner</text>
+<text x="510" y="336" class="pdesc">Agentic security triage workflow</text>
+<text x="510" y="357" class="pstack">Python + LLM orchestration</text>
+<rect x="28" y="394" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
+<text x="48" y="424" class="pname">Vehicle QR Generator</text>
+<text x="48" y="448" class="pdesc">Structured vehicle QR app</text>
+<text x="48" y="469" class="pstack">HTML, CSS, JS</text>
+<rect x="490" y="394" width="430" height="88" rx="12" fill="#111827" stroke="#334155"/>
+<text x="510" y="424" class="pname">Unity Microgames</text>
+<text x="510" y="448" class="pdesc">FPS + platformer game prototypes</text>
+<text x="510" y="469" class="pstack">Unity Assets/Packages/Settings</text>
 </svg>

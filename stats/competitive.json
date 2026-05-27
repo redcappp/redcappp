@@ -13,8 +13,7 @@
   "atcoder": {
     "current": 1075,
     "max": 1078,
-    "matches": 64,
-    "rank": "5 Kyu"
+    "matches": 64
   },
   "leetcode": {
     "solved": 373,
@@ -28,7 +27,7 @@
     "views": "2,209 views"
   },
   "repositories": {
-    "published": 27,
-    "featured": 8
+    "published": 29,
+    "featured": 10
   }
 }
