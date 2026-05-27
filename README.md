@@ -1,13 +1,20 @@
 <h1 align="center">Divyansh Kumar Singh Chauhan</h1>
 
 <p align="center">
-  Competitive Programmer · ML/Systems Builder · B.Tech CSE @ IIIT Naya Raipur
+  Competitive Programmer &middot; ML/Systems Builder &middot; B.Tech CSE @ IIIT Naya Raipur
 </p>
 
 <p align="center">
-  <a href="https://github.com/redcappp">GitHub</a> ·
-  <a href="https://linkedin.com/in/divyansh-kumar-singh-chauhan">LinkedIn</a> ·
-  <a href="https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA">YouTube: Redcapp</a> ·
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=750&color=22C55E&center=true&vCenter=true&width=720&lines=ACM+ICPC+Regionalist+2025;Building+RAG+platforms+and+AI+systems;Codeforces+Expert+%7C+CodeChef+4+star+%7C+LeetCode+Top+3.82%25;YT+AI+Agent+%7C+FileWorld+%7C+OffChat+Suite+%7C+CogniGen"
+    alt="ACM ICPC Regionalist 2025 | Building RAG platforms and AI systems"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/redcappp">GitHub</a> &middot;
+  <a href="https://linkedin.com/in/divyansh-kumar-singh-chauhan">LinkedIn</a> &middot;
+  <a href="https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA">YouTube: Redcapp</a> &middot;
   <a href="mailto:divyansh23100@iiitnr.edu.in">Email</a>
 </p>
 
@@ -53,10 +60,10 @@ Computer Science undergraduate focused on competitive programming, machine learn
 ### Tech Stack
 
 ```txt
-C++ · Python · JavaScript · TypeScript · Kotlin
-React · FastAPI · Node.js · PostgreSQL · MongoDB · SQLite
-PyTorch · TensorFlow · scikit-learn · RAG · NLP · CNNs
-Docker · Linux · GitHub Actions · Android · Unity · OS internals
+C++ | Python | JavaScript | TypeScript | Kotlin
+React | FastAPI | Node.js | PostgreSQL | MongoDB | SQLite
+PyTorch | TensorFlow | scikit-learn | RAG | NLP | CNNs
+Docker | Linux | GitHub Actions | Android | Unity | OS internals
 ```
 
 ### YouTube
