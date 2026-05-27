@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Header](assets/profile-header.svg)
+![Divyansh Kumar Singh Chauhan](assets/profile-header.gif)
 
 [GitHub](https://github.com/redcappp) |
 [LinkedIn](https://linkedin.com/in/divyansh-kumar-singh-chauhan) |
@@ -18,7 +18,13 @@ CGPA: 9.31 / 10
 Currently: Samsung PRISM R&D Intern
 ```
 
+## Live Programming Stats
+
 <div align="center">
+
+![Live programming stats](assets/stats.gif)
+
+</div>
 
 | Platform | Current | Max | Problems / Signal |
 |---|---:|---:|---:|
@@ -27,64 +33,48 @@ Currently: Samsung PRISM R&D Intern
 | [AtCoder](https://atcoder.jp/users/redcappp) | 1075 5 Kyu | 1078 | 64 rated matches |
 | [LeetCode](https://leetcode.com/u/Redcapp/) | 1925.21 | 1925.21 | 373 solved, top 3.82% |
 
-</div>
-
-> Stats refreshed from public profiles/APIs on 2026-05-27.
-
-## Live Programming Stats
+## Featured Work
 
 <div align="center">
 
-![Live competitive programming and creator stats](assets/live-stats.svg)
+![Featured work](assets/featured-work.gif)
 
 </div>
 
-## Featured Work
+| Project | What It Does | Links |
+|---|---|---|
+| CogniGen | Adaptive RAG assessment platform with teacher dashboards, student quizzes, PDF generation, and adversarial question filtering. | [Frontend](https://github.com/redcappp/cognigen-frontend) · [Backend](https://github.com/redcappp/cognigen-backend) |
+| YT AI Agent | YouTube analytics, trend planning, content generation, metadata, and upload automation through official APIs. | [Repository](https://github.com/redcappp/yt-ai-agent) |
+| FileWorld | Android file workspace for local conversion, compression, ZIP creation, sharing, and Play Store-ready assets. | [Repository](https://github.com/redcappp/fileworld) |
+| OffChat Suite | Offline communication project with simulator, compression benchmark, and Android Nearby Connections implementation. | [Simulator](https://github.com/redcappp/offchat-mesh-simulator) · [Android](https://github.com/redcappp/offchat-android) |
+| Adaptive CNN Malware Guard | Malware classifier that converts binaries into image representations and evaluates CNN architectures. | [Repository](https://github.com/redcappp/Adaptive-CNN-Malware-Guard) |
+| AI Vulnerability Scanner Agent | Agentic security triage workflow for vulnerability analysis and repeatable scanner experiments. | [Repository](https://github.com/redcappp/ai-vuln-scanner-agent) |
 
-<p align="center">
-  <img src="assets/featured-work.svg" alt="Featured work" width="95%" />
-</p>
+## Portfolio Snapshot
 
-## Project Glimpses
+<div align="center">
 
-<p align="center">
-  <img src="assets/project-glimpses.svg" alt="Project glimpses" width="95%" />
-</p>
+![Portfolio snapshot](assets/activity.gif)
+
+</div>
 
 ## Published Repositories
 
-- [CogniGen Frontend](https://github.com/redcappp/cognigen-frontend)
-- [CogniGen Backend](https://github.com/redcappp/cognigen-backend)
-- [YT AI Agent](https://github.com/redcappp/yt-ai-agent)
-- [FileWorld](https://github.com/redcappp/fileworld)
-- [OffChat Mesh Simulator](https://github.com/redcappp/offchat-mesh-simulator)
-- [OffChat Android](https://github.com/redcappp/offchat-android)
-- [Vehicle QR Code Generator](https://github.com/redcappp/vehicle-qr-code-generator)
-- [Adaptive CNN Malware Guard](https://github.com/redcappp/Adaptive-CNN-Malware-Guard)
-- [AI Vulnerability Scanner Agent](https://github.com/redcappp/ai-vuln-scanner-agent)
-- [Unity Mobile 3D Starter](https://github.com/redcappp/unity-mobile-3d-starter)
-- [Unity Vehicle Manager](https://github.com/redcappp/unity-vehicle-manager)
-- [Unity Sample Scene Prototype 2](https://github.com/redcappp/unity-sample-scene-prototype-2)
-- [Unity Sample Scene Prototype 3](https://github.com/redcappp/unity-sample-scene-prototype-3)
-- [Unity Visual Scene Prototype](https://github.com/redcappp/unity-visual-scene-prototype)
-- [Unity FPS Microgame](https://github.com/redcappp/unity-fps-microgame)
-- [Unity Platformer Space Microgame](https://github.com/redcappp/unity-platformer-space-microgame)
+| Apps and AI | Systems and Research | Games and Experiments |
+|---|---|---|
+| [YT AI Agent](https://github.com/redcappp/yt-ai-agent) | [CogniGen Backend](https://github.com/redcappp/cognigen-backend) | [Unity FPS Microgame](https://github.com/redcappp/unity-fps-microgame) |
+| [FileWorld](https://github.com/redcappp/fileworld) | [CogniGen Frontend](https://github.com/redcappp/cognigen-frontend) | [Unity Platformer Space Microgame](https://github.com/redcappp/unity-platformer-space-microgame) |
+| [Vehicle QR Code Generator](https://github.com/redcappp/vehicle-qr-code-generator) | [OffChat Mesh Simulator](https://github.com/redcappp/offchat-mesh-simulator) | [Unity Vehicle Manager](https://github.com/redcappp/unity-vehicle-manager) |
+| [AI Vulnerability Scanner Agent](https://github.com/redcappp/ai-vuln-scanner-agent) | [OffChat Android](https://github.com/redcappp/offchat-android) | [Unity Visual Scene Prototype](https://github.com/redcappp/unity-visual-scene-prototype) |
+| [Adaptive CNN Malware Guard](https://github.com/redcappp/Adaptive-CNN-Malware-Guard) | [Quant](https://github.com/redcappp/Quant) | [Unity Mobile 3D Starter](https://github.com/redcappp/unity-mobile-3d-starter) |
 
 ## Tech Stack
 
 ```txt
-C++ | Python | JavaScript | TypeScript | React | FastAPI | Node.js
-PyTorch | TensorFlow | scikit-learn | RAG | PostgreSQL | MongoDB
-Docker | Linux | GitHub Actions | Unity | OS internals
+C++ | Python | JavaScript | TypeScript | Kotlin | React | FastAPI | Node.js
+PyTorch | TensorFlow | scikit-learn | RAG | PostgreSQL | MongoDB | SQLite
+Docker | Linux | GitHub Actions | Unity | Android | OS internals
 ```
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub portfolio snapshot](assets/github-activity.svg)
-
-</div>
 
 ## Competitive Programming
 

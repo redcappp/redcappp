@@ -339,11 +339,6 @@ def main():
         "repositories": repository_totals(),
     }
     (STATS / "competitive.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
-    (ASSETS / "live-stats.svg").write_text(svg(stats), encoding="utf-8")
-    (ASSETS / "profile-header.svg").write_text(profile_header_svg(), encoding="utf-8")
-    (ASSETS / "featured-work.svg").write_text(featured_work_svg(), encoding="utf-8")
-    (ASSETS / "project-glimpses.svg").write_text(project_glimpses_svg(), encoding="utf-8")
-    (ASSETS / "github-activity.svg").write_text(activity_svg(stats), encoding="utf-8")
 
 
 if __name__ == "__main__":
