@@ -5,12 +5,6 @@
   />
 </p>
 
-<h1 align="center">Divyansh Kumar Singh Chauhan</h1>
-
-<p align="center">
-  Competitive Programmer &middot; ML/Systems Builder &middot; B.Tech CSE @ IIIT Naya Raipur
-</p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=750&color=22C55E&center=true&vCenter=true&width=720&lines=ACM+ICPC+Regionalist+2025;Building+RAG+platforms+and+AI+systems;Codeforces+Expert+%7C+CodeChef+4+star+%7C+LeetCode+Top+3.82%25;YT+AI+Agent+%7C+FileWorld+%7C+OffChat+Suite+%7C+CogniGen"
