@@ -1,0 +1,17 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#0ea5e9"/>
+    <stop offset="52%" stop-color="#22c55e"/>
+    <stop offset="100%" stop-color="#f97316"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="260" rx="24" fill="#0f172a"/>
+<path d="M0 190 C170 120 280 240 430 170 C600 90 710 210 1000 120 V260 H0 Z" fill="url(#g)" opacity="0.28"/>
+<circle cx="96" cy="78" r="42" fill="#22c55e" opacity="0.22"/>
+<circle cx="902" cy="72" r="58" fill="#0ea5e9" opacity="0.20"/>
+<text x="500" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#ffffff">Divyansh Kumar Singh Chauhan</text>
+<text x="500" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="#dbeafe">Competitive Programmer | ML + Systems Builder | IIIT Naya Raipur</text>
+<text x="500" y="170" text-anchor="middle" font-family="Consolas, monospace" font-size="18" fill="#bbf7d0">ICPC Regionalist 2025 | Codeforces Expert | LeetCode Top 3.82%</text>
+<text x="500" y="208" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#fed7aa">RAG platforms, cybersecurity ML, offline networking, and AI tooling</text>
+</svg>

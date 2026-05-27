@@ -1,0 +1,15 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<style>
+.label{font:700 15px Arial;fill:#cbd5e1}.num{font:800 34px Arial;fill:#fff}.small{font:13px Arial;fill:#94a3b8}
+</style>
+<rect width="900" height="180" rx="18" fill="#0f172a"/>
+<text x="36" y="42" class="label">GitHub Portfolio Snapshot</text>
+<text x="36" y="95" class="num">26</text>
+<text x="36" y="124" class="small">published repositories</text>
+<text x="260" y="95" class="num">8</text>
+<text x="260" y="124" class="small">featured engineering projects</text>
+<text x="500" y="95" class="num">1500+</text>
+<text x="500" y="124" class="small">algorithmic problems solved</text>
+<text x="700" y="95" class="num">9.31</text>
+<text x="700" y="124" class="small">CGPA / 10</text>
+</svg>
