@@ -6,19 +6,20 @@
     "max_rank": "expert"
   },
   "codechef": {
-    "current": 1824,
+    "current": 1796,
     "max": 1852,
-    "solved": 832
+    "solved": 835
   },
   "atcoder": {
     "current": 1075,
     "max": 1078,
-    "matches": 64
+    "matches": 64,
+    "rank": "5 Kyu"
   },
   "leetcode": {
     "solved": 373,
     "rating": 1925.21,
-    "top_percentage": 3.82,
+    "top_percentage": 3.83,
     "contests": 28
   },
   "youtube": {

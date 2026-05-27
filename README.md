@@ -2,9 +2,9 @@
 
 ![Profile Header](assets/profile-header.svg)
 
-[GitHub](https://github.com/redcappp) ·
-[LinkedIn](https://linkedin.com/in/divyansh-kumar-singh-chauhan) ·
-[YouTube: Redcapp](https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA) ·
+[GitHub](https://github.com/redcappp) |
+[LinkedIn](https://linkedin.com/in/divyansh-kumar-singh-chauhan) |
+[YouTube: Redcapp](https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA) |
 [Email](mailto:divyansh23100@iiitnr.edu.in)
 
 </div>
@@ -29,7 +29,7 @@ Currently: Samsung PRISM R&D Intern
 
 </div>
 
-> Stats were refreshed from public profiles/APIs on 2026-05-27. The card below is generated locally and refreshed by GitHub Actions, so it avoids blank third-party stat images.
+> Stats refreshed from public profiles/APIs on 2026-05-27.
 
 ## Live Programming Stats
 
@@ -41,44 +41,9 @@ Currently: Samsung PRISM R&D Intern
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>CogniGen: Adaptive RAG Cognitive Assessment</h3>
-      <p>Full-stack assessment platform with RAG-based question generation, multi-hop retrieval, adversarial filtering, teacher dashboards, and student quiz workflows.</p>
-      <p><b>Stack:</b> LLMs, RAG, FastAPI, React, PostgreSQL</p>
-    </td>
-    <td width="50%">
-      <h3>Adaptive CNN Malware Guard</h3>
-      <p>Cybersecurity ML system that converts binaries into image representations and classifies malware using VGG/DenseNet-style CNN pipelines.</p>
-      <p><b>Result:</b> 93.72% validation accuracy with DenseNet121.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>OffChat Suite</h3>
-      <p>Offline-first communication project with simulation, compression benchmarking, and real Android implementation using peer discovery and local persistence.</p>
-      <p><a href="https://github.com/redcappp/offchat-mesh-simulator">View repository</a></p>
-    </td>
-    <td width="50%">
-      <h3>AI Vulnerability Scanner Agent</h3>
-      <p>Python security-agent workflow for vulnerability analysis and evaluation, built around agentic triage and repeatable scanner experiments.</p>
-      <p><a href="https://github.com/redcappp/ai-vuln-scanner-agent">View repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Vehicle QR Code Generator</h3>
-      <p>Browser app for encoding vehicle details into a downloadable QR code with a polished public README and verified screenshot.</p>
-      <p><a href="https://github.com/redcappp/vehicle-qr-code-generator">View repository</a></p>
-    </td>
-    <td width="50%">
-      <h3>YouTube CP Learning Hub</h3>
-      <p>Redcapp channel for Codeforces, CodeChef, and AtCoder problem breakdowns, algorithm patterns, and contest strategy.</p>
-      <p><a href="https://www.youtube.com/channel/UCRZ2r96UTZtdes8CFx9kSXA">Watch Redcapp on YouTube</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/featured-work.svg" alt="Featured work" width="95%" />
+</p>
 
 ## Project Glimpses
 

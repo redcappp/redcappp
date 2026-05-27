@@ -1,0 +1,48 @@
+<svg width="950" height="360" viewBox="0 0 950 360" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes stream { from { stroke-dashoffset: 260; } to { stroke-dashoffset: 0; } }
+@keyframes hover { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
+@keyframes shimmer { 0% { opacity:.10; } 50% { opacity:.28; } 100% { opacity:.10; } }
+.title{font:800 28px Arial;fill:#fff}.sub{font:14px Arial;fill:#94a3b8}.n{font:800 15px Arial;fill:#fff;text-anchor:middle}.tag{font:12px Consolas;fill:#bbf7d0;text-anchor:middle}.d{font:700 17px Arial;fill:#dbeafe}.m{font:13px Consolas;fill:#fed7aa}.node{animation:hover 7s ease-in-out infinite; transform-origin:center}.path{stroke-dasharray:14 18;animation:stream 7s linear infinite}.glow{animation:shimmer 4.5s ease-in-out infinite}
+</style>
+<rect width="950" height="360" rx="20" fill="#0b1120"/>
+<circle class="glow" cx="820" cy="48" r="90" fill="#22c55e"/>
+<circle class="glow" cx="120" cy="302" r="120" fill="#0ea5e9"/>
+<path class="path" d="M132 86 C280 26 360 182 498 86 C650 -18 745 152 918 76" fill="none" stroke="#38bdf8" stroke-width="2" opacity=".22"/>
+<path class="path" d="M132 230 C270 150 392 306 498 230 C650 124 766 292 918 220" fill="none" stroke="#22c55e" stroke-width="2" opacity=".18"/>
+<text x="28" y="38" class="title">Featured Work</text>
+<text x="240" y="38" class="sub">projects with the strongest engineering signal</text>
+
+<g class="node" style="animation-delay:0.0s">
+  <circle cx="78" cy="86" r="54" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="78" cy="86" r="38" fill="#0ea5e9" opacity=".12"/>
+  <text x="78" y="80" class="n">CogniGen</text>
+  <text x="78" y="101" class="tag">featured</text>
+  <text x="156" y="70" class="d">Adaptive RAG cognitive assessment</text>
+  <text x="156" y="100" class="m">multi-hop retrieval | adversarial filtering | teacher dashboards</text>
+</g>
+<g class="node" style="animation-delay:0.35s">
+  <circle cx="498" cy="86" r="54" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="498" cy="86" r="38" fill="#0ea5e9" opacity=".12"/>
+  <text x="498" y="80" class="n">YT AI Agent</text>
+  <text x="498" y="101" class="tag">featured</text>
+  <text x="576" y="70" class="d">Autonomous YouTube analytics and upload workflow</text>
+  <text x="576" y="100" class="m">trend signals | upload timing | generated scripts and metadata</text>
+</g>
+<g class="node" style="animation-delay:0.7s">
+  <circle cx="78" cy="230" r="54" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="78" cy="230" r="38" fill="#0ea5e9" opacity=".12"/>
+  <text x="78" y="224" class="n">OffChat Suite</text>
+  <text x="78" y="245" class="tag">featured</text>
+  <text x="156" y="214" class="d">Offline-first messaging research project</text>
+  <text x="156" y="244" class="m">mesh simulation | compression benchmark | Android Nearby Connections</text>
+</g>
+<g class="node" style="animation-delay:1.0499999999999998s">
+  <circle cx="498" cy="230" r="54" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="498" cy="230" r="38" fill="#0ea5e9" opacity=".12"/>
+  <text x="498" y="224" class="n">FileWorld</text>
+  <text x="498" y="245" class="tag">featured</text>
+  <text x="576" y="214" class="d">Android file-workspace utility</text>
+  <text x="576" y="244" class="m">file picker | conversion | compression | ZIP | Play Store assets</text>
+</g>
+</svg>
