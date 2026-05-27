@@ -97,6 +97,17 @@ Replace these image paths after each repository has screenshots in `assets/`.
   <img src="assets/malware-classifier-demo.gif" alt="Malware classifier demo" width="48%" />
 </p>
 
+## Published Repositories
+
+- [Vehicle QR Code Generator](https://github.com/redcappp/vehicle-qr-code-generator)
+- [Unity Mobile 3D Starter](https://github.com/redcappp/unity-mobile-3d-starter)
+- [Unity Vehicle Manager](https://github.com/redcappp/unity-vehicle-manager)
+- [Unity Sample Scene Prototype 2](https://github.com/redcappp/unity-sample-scene-prototype-2)
+- [Unity Sample Scene Prototype 3](https://github.com/redcappp/unity-sample-scene-prototype-3)
+- [Unity Visual Scene Prototype](https://github.com/redcappp/unity-visual-scene-prototype)
+- [Unity FPS Microgame](https://github.com/redcappp/unity-fps-microgame)
+- [Unity Platformer Space Microgame](https://github.com/redcappp/unity-platformer-space-microgame)
+
 ## Tech Stack
 
 <div align="center">
