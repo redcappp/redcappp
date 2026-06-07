@@ -11,9 +11,10 @@
     "solved": 840
   },
   "atcoder": {
-    "current": 1075,
+    "current": 1067,
     "max": 1078,
-    "matches": 64
+    "matches": 66,
+    "rank": "5 Kyu"
   },
   "leetcode": {
     "solved": 381,
