@@ -1,14 +1,14 @@
 {
   "codeforces": {
-    "current": 1576,
+    "current": 1450,
     "max": 1673,
     "rank": "specialist",
     "max_rank": "expert"
   },
   "codechef": {
-    "current": 1824,
+    "current": 1780,
     "max": 1852,
-    "solved": 832
+    "solved": 840
   },
   "atcoder": {
     "current": 1067,
@@ -25,7 +25,7 @@
   "youtube": {
     "channel": "Redcapp",
     "subscribers": "30 subscribers",
-    "views": "2,239 views"
+    "views": "2,241 views"
   },
   "repositories": {
     "published": 29,
