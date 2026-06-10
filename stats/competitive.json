@@ -1,14 +1,14 @@
 {
   "codeforces": {
-    "current": 1624,
+    "current": 1516,
     "max": 1673,
-    "rank": "expert",
+    "rank": "specialist",
     "max_rank": "expert"
   },
   "codechef": {
     "current": 1780,
     "max": 1852,
-    "solved": 841
+    "solved": 844
   },
   "atcoder": {
     "current": 1067,
