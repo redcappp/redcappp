@@ -1,7 +1,7 @@
 {
   "codeforces": {
-    "current": 1695,
-    "max": 1759,
+    "current": 1624,
+    "max": 1673,
     "rank": "expert",
     "max_rank": "expert"
   },
@@ -17,7 +17,7 @@
     "rank": "4 Kyu"
   },
   "leetcode": {
-    "solved": 387,
+    "solved": 388,
     "rating": 1950.85,
     "top_percentage": 3.37,
     "contests": 31
