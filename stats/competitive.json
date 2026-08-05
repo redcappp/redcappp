@@ -11,10 +11,9 @@
     "solved": 872
   },
   "atcoder": {
-    "current": 1196,
-    "max": 1268,
-    "matches": 73,
-    "rank": "4 Kyu"
+    "current": 1075,
+    "max": 1078,
+    "matches": 64
   },
   "leetcode": {
     "solved": 479,
@@ -25,7 +24,7 @@
   "youtube": {
     "channel": "Redcapp",
     "subscribers": "46 subscribers",
-    "views": "2,806 views"
+    "views": "2,808 views"
   },
   "repositories": {
     "published": 29,
